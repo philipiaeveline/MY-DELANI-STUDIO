@@ -18,10 +18,10 @@
     background-repeat: no-repeat;
     padding:6% ;
 }
-h{
+#whatWeDo,p1{
     text-align: center;
 }
 #designImg{
-    
-    justify-content: space-between;
-} 
+    text-align: center;
+    justify-items: ;
+}
