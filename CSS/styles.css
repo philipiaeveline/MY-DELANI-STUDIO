@@ -32,3 +32,8 @@
 .portfolio{
     text-align: center;
 }
+.contact{
+    background-image: url("/img/backgrounds/c_image.jpg");
+    background-repeat: no-repeat;
+    padding: 6px;
+}
