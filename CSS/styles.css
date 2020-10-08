@@ -18,7 +18,10 @@
     background-repeat: no-repeat;
     padding:6% ;
 }
-.col-6{
+h{
     text-align: center;
-    display: flex;
 }
+#designImg{
+    
+    justify-content: space-between;
+} 
