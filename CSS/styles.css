@@ -36,4 +36,15 @@
     background-image: url("/img/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     padding: 6px;
+    text-align: center;
+}
+.button{
+        float: left;
+        border-radius: 2px;
+}
+.form-group{
+    color:colorless;
+}
+.footer{
+    text-align: center;
 }
