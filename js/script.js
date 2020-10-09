@@ -19,3 +19,14 @@ $(document).ready(function() {
         $(".hope").show(2000);
     });
     });
+
+    $(document).ready(function() {
+        $(".cat").click(function() {
+            $(".cat").hide(2000)
+            $(".cat1").show(2000);
+        });
+        $(".cat1").click(function() {
+            $(".cat1").hide(2000)
+            $(".cat").show(2000);
+        });
+        });
