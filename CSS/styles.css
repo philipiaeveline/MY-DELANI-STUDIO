@@ -12,17 +12,27 @@
 .center{
     text-align: center;
     font-size: small;
-}
+    line-height: 30px;
+  }
+
 .services{
     text-align: center;
     background-image: url("/img/backgrounds/s_image.jpg");
     height: 300px;
+    padding:10%;
+    color: white;
+    line-height: 30px;
+}
+#message::placeholder{
+    background: none;
+    height: 300px;
     color: white;
     background-repeat: no-repeat;
+
     padding:6% ;
     font-size: small;
 }
-#whatWeDo,p1{
+#whatWeDo{
     text-align: center;
     font-size: small;
     padding: 7%;
@@ -41,19 +51,22 @@
 .contact{
     background-image: url("/img/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
-    padding: 6px;
     text-align: center;
-    height: 500px;
+    height: 400px;
+    color: white;
+    font:small;
+    background-size: cover;
 }
-.button{
-        float: left;
-        border-radius: 2px;
-}
+
 #Name::placeholder{
     color:white;
 }
 .footer{
     text-align: center;
+    padding:20px;
+}
+.footer img{
+    margin-right: 20px;
 }
 #message{
     background:none;
@@ -76,4 +89,10 @@
     margin-left: 200px;
     margin-right: 200px;
 }
-.form-group
+.form-group{
+    margin-left: 200px; 
+} 
+.button{
+    margin-left: 70%;
+    margin-top: 100px;
+}
