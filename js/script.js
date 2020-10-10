@@ -30,3 +30,12 @@ $(document).ready(function() {
             $(".cat").show(2000);
         });
         });
+
+        $(document).ready(function() {
+            $('.work1Logo').hover(function() {
+              console.log('hovering')
+              $("#work1Text").show();
+            });
+          });
+        });
+        console.log('it works')
