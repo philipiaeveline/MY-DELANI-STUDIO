@@ -4,11 +4,11 @@
 ## Description
 This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive alert confirmations upon receival of the messages by the company.
 ## Project live site
-  This is the live .[ Click for the demo]()
+
   This is the live .[ Click for the demo](https://github.com/philipiaeveline/MY-DELANI-STUDIO)
 
 ## Setup instructions
-* Clone the program from [Online repo]()
+
 * Clone the program from [Online repo](https://github.com/philipiaeveline/MY-DELANI-STUDIO)
 * Click on the green button to clone or download
 
@@ -52,5 +52,6 @@ This is a project that details what Delani Studio does and their works. Addition
 contact me philipiaevline13@gmail.com
 ### License
 The project is under[MIT license](https://github.com/philipiaeveline/MY-DELANI-STUDI)
+
 Copyright &copy; 2020.Eveline philipia
 
