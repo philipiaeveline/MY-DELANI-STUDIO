@@ -28,6 +28,7 @@
     height: 300px;
     color: white;
     background-repeat: no-repeat;
+    margin-right: 30px;
 
     padding:6% ;
     font-size: small;
@@ -56,6 +57,8 @@
     color: white;
     font:small;
     background-size: cover;
+    margin-right: 30px;
+    margin-left: 30px;
 }
 
 #Name::placeholder{
