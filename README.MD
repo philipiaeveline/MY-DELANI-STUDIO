@@ -41,6 +41,7 @@ This is a project that details what Delani Studio does and their works. Addition
     </tr>
        
 </table>
+
 ## Technologies Used
 * HTML-For Building Mark Up pages
 * CSS-For styling User Interface
@@ -50,7 +51,6 @@ This is a project that details what Delani Studio does and their works. Addition
 ## Support and contact details
 contact me philipiaevline13@gmail.com
 ### License
-The project is under[MIT license](/blob/master/LICENSE)
-The project is under[MIT license](https://github.com/philipiaeveline/MY-DELANI-STUDIO/blob/master/LICENSE)
+The project is under[MIT license](https://github.com/philipiaeveline/MY-DELANI-STUDI)
 Copyright &copy; 2020.Eveline philipia
 
