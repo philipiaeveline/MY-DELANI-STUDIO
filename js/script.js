@@ -31,11 +31,8 @@ $(document).ready(function() {
         });
         });
 
-        $(document).ready(function() {
-            $('.work1Logo').hover(function() {
-              console.log('hovering')
-              $("#work1Text").show();
-            });
-          });
-        });
-        console.log('it works')
+        function main() {
+            alert("Hello we have received your message. Thank you for reaching out to us.");
+        }
+
+
