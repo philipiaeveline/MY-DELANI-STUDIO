@@ -1,6 +1,6 @@
 
 .code{
-    background-image: url("/img/backgrounds/h_img.jpg");
+    background-image: url("../img/backgrounds/h_img.jpg");
     height: 500px;
     background-size: cover;
     background-repeat: no-repeat;
@@ -17,7 +17,7 @@
 
 .services{
     text-align: center;
-    background-image: url("/img/backgrounds/s_image.jpg");
+    background-image: url("../img/backgrounds/s_image.jpg");
     height: 300px;
     padding:10%;
     color: white;
@@ -50,7 +50,7 @@
 
 }
 .contact{
-    background-image: url("/img/backgrounds/c_image.jpg");
+    background-image: url("../img/backgrounds/c_image.jpg");
     background-repeat: no-repeat;
     text-align: center;
     height: 400px; 
