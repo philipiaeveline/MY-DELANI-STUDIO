@@ -75,8 +75,11 @@
     color: white;
 }
 #Name{
-    background: none;
+    background:transparent;
     color: white;
+    border-color: white;
+    height:40%;
+
 }
 #message::placeholder{
     background: none;
