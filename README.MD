@@ -1,6 +1,6 @@
 # DELANI STUDIO
 #### This project interlinks clients to software developers, surtady October 10th 2020 
-#### BY**EVELINE PHILIPIA**
+#### BY **EVELINE PHILIPIA**
 ## Description
 This is a project that details what Delani Studio does and their works. Additionally, it allows users to send messages and receive alert confirmations upon receival of the messages by the company.
 ## Project live site
