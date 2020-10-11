@@ -23,7 +23,7 @@
     color: white;
     line-height: 30px;
 }
-#message::placeholder{
+/* #message::placeholder{
     background: none;
     height: 300px;
     color: white;
@@ -32,7 +32,7 @@
 
     padding:6% ;
     font-size: small;
-}
+} */
 #whatWeDo{
     text-align: center;
     font-size: small;
@@ -61,8 +61,8 @@
 }
 
 #Name::placeholder{
-    color:white;
-}
+    color:white; 
+} 
 .footer{
     text-align: center;
     padding:20px;
@@ -79,13 +79,29 @@
     color: white;
     border-color: white;
     height:40%;
+    padding: 20px;
+    width: 170px;
 
 }
 #message::placeholder{
     background: none;
     color: white;
     text-emphasis-color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+    border-color: white;
+ 
     
+}
+#target{
+    background:transparent;
+    color: white;
+    border-color: white;
+    height:40%;
+    padding: 20px;   
+    width: 170px;
+
+
 }
 .form{
     display: flex;
@@ -94,12 +110,12 @@
     margin-left: 200px;
     margin-right: 200px;
 }
-.form-group{
+/* .form-group{
     margin-left: 200px; 
-} 
-.button{
+}  */
+.btn{
     margin-left: 70%;
-    margin-top: 100px;
+    margin-top: 60px;
 }
 .card p{
     position: absolute;
@@ -137,4 +153,7 @@
     margin: 0 auto 0 auto;
     transform-origin: bottom;
     width: 16px;
+}.project{
+    margin-left: 1.5%;
+    margin-top: 3%;
 }
