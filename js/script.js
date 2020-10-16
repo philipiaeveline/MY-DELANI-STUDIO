@@ -1,41 +1,45 @@
 $(document).ready(function() {
 $(".eve").click(function() {
-    $(".eve").hide(2000)
-    $(".eve1").show(2000);
+    $(".eve").hide()
+    $(".eve1").show();
 });
 
 $(".eve1").click(function() {
-    $(".eve1").hide(2000)
-    $(".eve").show(2000);
+    $(".eve1").hide()
+    $(".eve").show(;
 });
 });
 
 $(document).ready(function() {
     $(".hope").click(function() {
-        $(".hope").hide(2000)
-        $(".hope1").show(2000);
+        $(".hope").hide()
+        $(".hope1").show();
     });
     $(".hope1").click(function() {
-        $(".hope1").hide(2000)
-        $(".hope").show(2000);
+        $(".hope1").hide()
+        $(".hope").show();
     });
 });
 
 $(document).ready(function() {
     $(".cat").click(function() {
-          $(".cat").hide(2000)
-            $(".cat1").show(2000);
+          $(".cat").hide()
+            $(".cat1").show();
         });
         $(".cat1").click(function() {
-            $(".cat1").hide(2000)
-            $(".cat").show(2000);
+            $(".cat1").hide()
+            $(".cat").show();
         });
         });
 
         function main() {
-            alert("Hello  Eveline we have received your message. Thank you for reaching out to us.");
+            var name = document.getElementById("name").value;
+            if(name){
+                alert("Hello,"+name + " We have received your message .thank you for reaching out to us.**");
+            }
         }
-
+        
+        
 
 $("#img1").hover(function(){
     $(".log1").toggle();
