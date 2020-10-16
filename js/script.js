@@ -6,7 +6,7 @@ $(".eve").click(function() {
 
 $(".eve1").click(function() {
     $(".eve1").hide()
-    $(".eve").show(;
+    $(".eve").show();
 });
 });
 

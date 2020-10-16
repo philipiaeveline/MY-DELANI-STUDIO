@@ -156,4 +156,11 @@
 }.project{
     margin-left: 1.5%;
     margin-top:5;
-}
+}  
+
+body{
+    box-sizing: border-box;
+    }
+    @media only screen and (max-width: 600px){
+      body{background-color:purple;}
+    }
